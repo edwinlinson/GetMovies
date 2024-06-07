@@ -1,5 +1,9 @@
 # 🎬 Movie App
 
+**Hosted at https://get-movies-frontend-szms.vercel.app** 
+
+Click [here](https://get-movies-frontend-szms.vercel.app) to visit the deployed Get Movies application.
+
 ## Overview
 Movie App is a web application that allows users to browse, search, and add movies to their favorites. The application is built using Spring Boot for the backend and Angular for the frontend. It uses an H2 database to store movie data.
 
