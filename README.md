@@ -16,6 +16,7 @@ Movie App is a web application that allows users to browse, search, and add movi
 ## Technologies Used
 - **Backend**: Spring Boot
 - **Frontend**: Angular
+-  **Database**: Postgresql (database changed from original H2, as in memory db tends to lose data when deployed after some time of inactivity)
 - **Database**: H2 (in-memory database)
 
 ## Endpoints
